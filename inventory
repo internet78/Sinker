@@ -1,2 +1,3 @@
 [SERVERS]
-127.0.0.1 ansible_user=root
+134.153.73.34 ansible_user=root
+runme_first.sh
